@@ -73,7 +73,7 @@ class Home extends StatelessWidget {
 
               // Resposta Qualificacoes Pessoais
               respostas(
-                  text1: "Um Gostoso", text2: "Um Saboroso", text3: "Um Genio"),
+                  text1: "Disciplinado", text2: "Focado", text3: "Esforçado"),
 
               // Histórico Acadêmico
               subtitulos("Histórico Acadêmico"),
